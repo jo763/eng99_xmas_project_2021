@@ -1,0 +1,10 @@
+{
+  "simulation": "xmasproj",
+  "simulationId": "xmasproj",
+  "start": 1640100881050,
+  "description": "First Attempt",
+  "scenarios": ["xmasproj"],
+  "assertions": [
+
+  ]
+}
